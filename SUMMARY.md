@@ -13,5 +13,5 @@
 
 ## 😁 竞赛 <a href="#cmpdoc" id="cmpdoc"></a>
 
-* [智能车](cmpdoc/zhi-neng-che.md)
-* [RoboMaster](cmpdoc/robomaster.md)
+* [智能车](cmpdoc/zhi-neng-che/README.md)
+* [RoboMaster](cmpdoc/RoboMaster/README.md)
